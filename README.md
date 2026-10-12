@@ -1,70 +1,58 @@
-🎮 Dashboard Interativa Xbox – Análise de Dados no Excel
+# Dashboard Interativo Xbox — Análise de Dados no Excel
 
-Este projeto consiste em uma dashboard desenvolvida no Excel com foco na análise e visualização de dados do Xbox, permitindo acompanhar estatísticas de uso, desempenho e informações relevantes de forma clara e intuitiva.
+Projeto educacional de análise e visualização de dados relacionados ao Xbox, desenvolvido no Microsoft Excel. A proposta é apresentar informações por meio de um painel organizado, facilitando a leitura e a exploração dos dados.
 
-Através de gráficos dinâmicos e organização estruturada, a ferramenta facilita a interpretação dos dados e apoia a tomada de decisão.
+## Objetivo
 
-🎯 Objetivo
+Aplicar conceitos de organização de dados, indicadores e visualização de informações na construção de um dashboard em Excel.
 
-Criar uma dashboard funcional e visualmente organizada para análise de dados, aplicando conceitos de Excel, visualização e organização da informação.
+## Recursos descritos no projeto
 
-📁 Estrutura do Projeto
+- Base de dados organizada.
+- Gráficos interativos e indicadores.
+- Segmentações e filtros.
+- Painel consolidado para consulta.
 
-O arquivo contém:
+> Os recursos acima seguem a documentação anterior do projeto. Sua disponibilidade e funcionamento devem ser confirmados ao abrir a planilha.
 
-Base de dados organizada
+## Tecnologias
 
-Gráficos interativos
+- Microsoft Excel.
+- Recursos de organização e visualização de dados em planilhas.
 
-Indicadores de desempenho
+## Como utilizar
 
-Segmentações e filtros
+1. Baixe o arquivo [`Dashboard Xbox.xlsx`](Dashboard%20Xbox.xlsx) deste repositório.
+2. Abra-o no Microsoft Excel.
+3. Explore os indicadores, gráficos e filtros disponíveis.
+4. Caso necessário, examine a base de dados antes de realizar alterações.
 
-Painel consolidado
+> A apresentação e algumas funcionalidades podem variar em outros editores de planilhas.
 
-A estrutura pode ser adaptada conforme a necessidade do usuário.
+## Estrutura do repositório
 
-🚀 Como Usar
+```text
+.
+├── Dashboard Xbox.xlsx
+└── README.md
+```
 
-Faça o download do arquivo.
+## Aprendizados
 
-Abra no Microsoft Excel ou compatível.
+Este projeto documenta estudos e atividades práticas relacionados a:
 
-Atualize a base de dados, se necessário.
+- Organização e interpretação de dados.
+- Criação de painéis e visualizações.
+- Apresentação de indicadores em planilhas.
 
-Utilize os filtros para analisar os resultados.
+## Demonstração
 
-💻 Requisitos
+Uma captura de tela do dashboard poderá ser incluída nesta seção após a validação visual da planilha.
 
-Microsoft Excel (recomendado)
+## Contexto
 
-LibreOffice ou Google Sheets (com possíveis limitações)
+Projeto desenvolvido para fins educacionais e de portfólio. Os dados podem ser fictícios ou adaptados para estudo, conforme informado na documentação anterior.
 
-📚 Aprendizados
+## Autor
 
-Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
-
-Organização e tratamento de dados
-
-Criação de dashboards
-
-Visualização da informação
-
-Uso de gráficos dinâmicos
-
-Análise de indicadores
-
-⚠️ Aviso
-
-Este projeto é voltado para fins educacionais e de portfólio.
-Os dados utilizados podem ser fictícios ou adaptados para estudo.
-
-📌 Contribuições
-
-Sugestões e melhorias são bem-vindas.
-Sinta-se à vontade para abrir issues ou pull requests.
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
-Livre para uso, modificação e distribuição.
+**Vinícius Gonçalves** · [GitHub](https://github.com/viniciustig)
